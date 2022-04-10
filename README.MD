@@ -18,7 +18,7 @@ Tom and Seth work for the Colorado Board of Elections and are looking to create 
 ## Results
 
 There were a total of 369,711 casts in the election.
--------------------
+
 Candidate Charles Casper Stockham received 23.0% of the total votes: (85,213).
 
 Candidate Diana DeGette received 73.8% of the total votes: (272,892).
